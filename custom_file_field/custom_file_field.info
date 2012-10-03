@@ -1,0 +1,9 @@
+name = "File field customisation"
+description = "Customisation for file field : open file in a new window"
+core = 7.x
+package = "File field customisation"
+
+version = "7.x-1.0"
+core = "7.x"
+project = "custom_file_field"
+datestamp = "1349252869"
